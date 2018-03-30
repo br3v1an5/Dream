@@ -1,0 +1,4 @@
+﻿  oj-1.cpp
+c:\users\abdulla\desktop\march\26th  march\oj-1\oj-1\oj-1.cpp(19): warning C4101: “result”: 未引用的局部变量
+c:\users\abdulla\desktop\march\26th  march\oj-1\oj-1\oj-1.cpp(61): warning C4715: “find”: 不是所有的控件路径都返回值
+LINK : fatal error LNK1168: 无法打开 C:\Users\abdulla\Desktop\March\26th  March\oj-1\Debug\oj-1.exe 进行写入

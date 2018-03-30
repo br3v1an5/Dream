@@ -1,0 +1,2 @@
+﻿problem2.obj : error LNK2005: _main 已经在 practise1.obj 中定义
+C:\Users\abdulla\Desktop\February\13th March\practise1\Debug\practise1.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

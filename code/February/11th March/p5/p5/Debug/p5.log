@@ -1,0 +1,15 @@
+﻿  p5.cpp
+c:\users\abdulla\desktop\february\11th march\p5\p5\p5.cpp(11): error C2440: “初始化”: 无法从“const char [6]”转换为“char *”
+  c:\users\abdulla\desktop\february\11th march\p5\p5\p5.cpp(11): note: 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+c:\users\abdulla\desktop\february\11th march\p5\p5\p5.cpp(11): error C2440: “初始化”: 无法从“const char [10]”转换为“char *”
+  c:\users\abdulla\desktop\february\11th march\p5\p5\p5.cpp(11): note: 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+c:\users\abdulla\desktop\february\11th march\p5\p5\p5.cpp(11): error C2440: “初始化”: 无法从“const char [4]”转换为“char *”
+  c:\users\abdulla\desktop\february\11th march\p5\p5\p5.cpp(11): note: 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+c:\users\abdulla\desktop\february\11th march\p5\p5\p5.cpp(11): error C2440: “初始化”: 无法从“const char [7]”转换为“char *”
+  c:\users\abdulla\desktop\february\11th march\p5\p5\p5.cpp(11): note: 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+c:\users\abdulla\desktop\february\11th march\p5\p5\p5.cpp(13): error C2664: “void sort(char [],int)”: 无法将参数 1 从“char *[5]”转换为“char []”
+  c:\users\abdulla\desktop\february\11th march\p5\p5\p5.cpp(13): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+c:\users\abdulla\desktop\february\11th march\p5\p5\p5.cpp(14): error C2664: “void print(char [],int)”: 无法将参数 1 从“char *[5]”转换为“char []”
+  c:\users\abdulla\desktop\february\11th march\p5\p5\p5.cpp(14): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+c:\users\abdulla\desktop\february\11th march\p5\p5\p5.cpp(27): error C2664: “int strcmp(const char *,const char *)”: 无法将参数 1 从“char”转换为“const char *”
+  c:\users\abdulla\desktop\february\11th march\p5\p5\p5.cpp(27): note: 从整型转换为指针类型要求 reinterpret_cast、C 样式转换或函数样式转换

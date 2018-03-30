@@ -1,0 +1,3 @@
+﻿  oj-A.cpp
+c:\users\abdulla\desktop\february\12th march\oj-a\oj-a\oj-a.cpp(36): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  oj-A.vcxproj -> C:\Users\abdulla\Desktop\February\12th March\oj-A\Debug\oj-A.exe

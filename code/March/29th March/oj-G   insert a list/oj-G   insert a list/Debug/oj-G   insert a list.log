@@ -1,0 +1,4 @@
+﻿  oj-G   insert a list.cpp
+c:\users\abdulla\desktop\march\29th march\oj-g   insert a list\oj-g   insert a list\oj-g   insert a list.cpp(16): warning C4101: “p”: 未引用的局部变量
+oj-G   insert a list.obj : error LNK2019: 无法解析的外部符号 "void __cdecl display(struct node *)" (?display@@YAXPAUnode@@@Z)，该符号在函数 _main 中被引用
+C:\Users\abdulla\Desktop\March\29th March\oj-G   insert a list\Debug\oj-G   insert a list.exe : fatal error LNK1120: 1 个无法解析的外部命令

@@ -1,0 +1,6 @@
+﻿  p3.cpp
+c:\users\abdulla\desktop\march\14th march\p3\p3\p3.cpp(11): error C3688: 文本后缀“，”无效；未找到文文本运算符或文本运算符模板“operator """"，”
+c:\users\abdulla\desktop\march\14th march\p3\p3\p3.cpp(11): error C2440: “初始化”: 无法从“const char [6]”转换为“char *”
+  c:\users\abdulla\desktop\march\14th march\p3\p3\p3.cpp(11): note: 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+c:\users\abdulla\desktop\march\14th march\p3\p3\p3.cpp(11): error C2440: “初始化”: 无法从“const char [4]”转换为“char *”
+  c:\users\abdulla\desktop\march\14th march\p3\p3\p3.cpp(11): note: 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
